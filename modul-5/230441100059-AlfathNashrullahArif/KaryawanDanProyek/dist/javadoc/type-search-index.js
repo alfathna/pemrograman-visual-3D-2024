@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"karyawandanproyek","l":"frameApp"},{"p":"karyawandanproyek","l":"KaryawanDanProyek"},{"p":"karyawandanproyek","l":"koneksi"}];updateSearchResults();
